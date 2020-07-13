@@ -1,15 +1,18 @@
 title: Heena Khan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am graduate student from MTSU's Computer Science Department. <br>
-  I am a full stack web developer, but my interest are not limited to Web Development<br>
-  I enjoy developing Machine Learning models using Deep Learning and Natural Language Processing,<br>
+  I am graduate student from MTSU's Computer Science Department. 
+  I am a full stack web developer, but my interest are not limited to Web Development
+  I enjoy developing Machine Learning models using Deep Learning and Natural Language Processing,
   and then deploying it into a Web Application<br>
   Thus making my profile in a true sense a full stack developer. 
+  <br<br>
   
+  I have 3+ years of experience in Software Development. Currently I am working as a Web developer for MTSU
+  Center of Education and Media. <br>
+  My Skills involves: 
  
   <br><br>
-  <a href="https://github.com/Hennakhan"> View My GitHub Profile </a> <br>
   <a href="https://www.linkedin.com/in/heena-khan-36a31958"> View My LinkedIn Profile</a> 
   
   
