@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Python - Neural Network Model + Web App  
 
-[Project 1 Title](/sample_page)
+[Web App](/images/food-recognizer/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Model](/images/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Data Visualization](/images/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
