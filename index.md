@@ -30,7 +30,7 @@
 
 - [HateSpeech Recognizer](https://github.com/Hennakhan/Hate-speech-detection-using-CNN-SVM-RFM)
 <br>
-<img src="images/Capture.PNG?raw=true" width="150" height="150"/>
+<img src="images/Capture.PNG?raw=true"/>
 
 <b>Technology:</b> Python (nltk, spicy, pandas, scikit learn)
 
