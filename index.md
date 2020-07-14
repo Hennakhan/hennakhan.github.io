@@ -4,16 +4,12 @@
 
 ### Python - Neural Network Model + Web App  
 
-[Web App](/images/food-recognizer/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Web App](https://github.com/Hennakhan/S20-team8-project/tree/master/Demo/FoodRecognizer-Webapp)
+<img src="/images/3.png?raw=true" width="50%" height="50%" />
 
 ---
-[Model](/images/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Data Visualization](/images/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Model and Data Visualization](https://github.com/Hennakhan/S20-team8-project/tree/master/Demo/CNN_Models)
+<img src="images/StatisticalAnalysis.PNG?raw=true"/>
 
 ---
 
