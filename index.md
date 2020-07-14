@@ -6,8 +6,8 @@
 
 ---
 [Web App](https://github.com/Hennakhan/S20-team8-project/tree/master/Demo/FoodRecognizer-Webapp)
-
-<img src="/images/3.png" width="50%" height="50%" />
+<br>
+<img src="/images/3.png?raw=true" width="30%" height="30%" />
 
 ---
 [Model and Data Visualization](https://github.com/Hennakhan/S20-team8-project/tree/master/Demo/CNN_Models)
@@ -16,17 +16,23 @@
 ---
 <b>Technology:</b> Python, Javascript, Jquery, HTML and CSS
 
-### Nom Nom 
+### React - Web APP 
 
-- [Free Food finder App](https://nomnom.gives/)
- <img src="images/appicon.png?raw=true"/>
+- [Nom Nom ](https://nomnom.gives/)
+<br>
+ <img src="images/appicon.png?raw=true" width="150" height="150"/>
 
-Technology: React, Typescript, Firebase, HTML and CSS
+<b>Technology:</b> React, Typescript, Firebase, HTML and CSS
 
 ---
 
+### Python - Neural Network + NLP 
 
+- [HateSpeech Recognizer](https://github.com/Hennakhan/Hate-speech-detection-using-CNN-SVM-RFM)
+<br>
+<img src="images/Capture.PNG?raw=true" width="150" height="150"/>
 
+<b>Technology:</b> Python (nltk, spicy, pandas, scikit learn)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
