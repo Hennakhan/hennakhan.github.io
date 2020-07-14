@@ -16,7 +16,7 @@
 ---
 <b>Technology:</b> Python, Javascript, Jquery, HTML and CSS
 
-### React - Web APP 
+### React - Web App
 
 - [Nom Nom ](https://nomnom.gives/)
 <br>
