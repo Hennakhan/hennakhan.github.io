@@ -2,18 +2,21 @@
 
 ---
 
-### Python - Neural Network Model + Web App  
+### Python - Neural Network Model + Flask Web App  
 
+---
 [Web App](https://github.com/Hennakhan/S20-team8-project/tree/master/Demo/FoodRecognizer-Webapp)
-<img src="/images/3.png?raw=true" width="50%" height="50%" />
+
+<img src="/images/3.png" width="50%" height="50%" />
 
 ---
 [Model and Data Visualization](https://github.com/Hennakhan/S20-team8-project/tree/master/Demo/CNN_Models)
 <img src="images/StatisticalAnalysis.PNG?raw=true"/>
 
 ---
+<b>Technology:</b> Python, Javascript, Jquery, HTML and CSS
 
-### Category Name 2
+### Nom Nom 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
